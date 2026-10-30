@@ -1,0 +1,4 @@
+SoundCard
+numpy
+pygame
+pytest
